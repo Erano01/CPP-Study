@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Design-Patterns",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-Design-Patterns-Debug-4553ad107b5996a325e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns-Debug-56010b2874ee17f80535.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns-Debug-a42fd7db283294db162d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns-Debug-4a2f3db7a5bc493c66c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "CPP-Study"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug",
+		"source" : "C:/CppWorkspace-VisualStudio2022/CPP-Study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
