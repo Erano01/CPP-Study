@@ -3,6 +3,10 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
+# Set the C++ standard
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
 # Enable Hot Reload for MSVC compilers if supported.
 if (POLICY CMP0141)
   cmake_policy(SET CMP0141 NEW)
@@ -13,3 +17,4 @@ project ("CPP-Study")
 
 # Include sub-projects.
 add_subdirectory ("Design-Patterns")
+add_subdirectory ("Algorithms")

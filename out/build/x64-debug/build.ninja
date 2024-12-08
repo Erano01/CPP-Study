@@ -121,6 +121,146 @@ build Design-Patterns\Creational-Patterns\rebuild_cache: phony Design-Patterns\C
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\factory-method && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\factory-method\edit_cache: phony Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\factory-method && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\factory-method\rebuild_cache: phony Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Creational-Patterns\abstract-factory\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\abstract-factory && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\abstract-factory\edit_cache: phony Design-Patterns\Creational-Patterns\abstract-factory\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Creational-Patterns\abstract-factory\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\abstract-factory && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\abstract-factory\rebuild_cache: phony Design-Patterns\Creational-Patterns\abstract-factory\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Creational-Patterns\Builder\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\Builder && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\Builder\edit_cache: phony Design-Patterns\Creational-Patterns\Builder\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Creational-Patterns\Builder\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\Builder && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\Builder\rebuild_cache: phony Design-Patterns\Creational-Patterns\Builder\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Creational-Patterns\prototype\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\prototype && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\prototype\edit_cache: phony Design-Patterns\Creational-Patterns\prototype\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Creational-Patterns\prototype\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\prototype && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\prototype\rebuild_cache: phony Design-Patterns\Creational-Patterns\prototype\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Creational-Patterns\Singleton\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\Singleton && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\Singleton\edit_cache: phony Design-Patterns\Creational-Patterns\Singleton\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Creational-Patterns\Singleton\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Creational-Patterns\Singleton && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Creational-Patterns\Singleton\rebuild_cache: phony Design-Patterns\Creational-Patterns\Singleton\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
 # C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/CMakeLists.txt
 # =============================================================================
 
@@ -146,6 +286,314 @@ build Design-Patterns\Behavioral-Patterns\CMakeFiles\rebuild_cache.util: CUSTOM_
   restat = 1
 
 build Design-Patterns\Behavioral-Patterns\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\chain-of-responsibility && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\chain-of-responsibility\edit_cache: phony Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\chain-of-responsibility && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\chain-of-responsibility\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\command\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\command && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\command\edit_cache: phony Design-Patterns\Behavioral-Patterns\command\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\command\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\command && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\command\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\command\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\interpreter\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\interpreter && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\interpreter\edit_cache: phony Design-Patterns\Behavioral-Patterns\interpreter\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\interpreter\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\interpreter && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\interpreter\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\interpreter\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\iterator\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\iterator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\iterator\edit_cache: phony Design-Patterns\Behavioral-Patterns\iterator\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\iterator\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\iterator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\iterator\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\iterator\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\mediator\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\mediator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\mediator\edit_cache: phony Design-Patterns\Behavioral-Patterns\mediator\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\mediator\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\mediator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\mediator\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\mediator\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\memento\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\memento && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\memento\edit_cache: phony Design-Patterns\Behavioral-Patterns\memento\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\memento\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\memento && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\memento\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\memento\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\observer\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\observer && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\observer\edit_cache: phony Design-Patterns\Behavioral-Patterns\observer\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\observer\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\observer && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\observer\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\observer\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\state\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\state && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\state\edit_cache: phony Design-Patterns\Behavioral-Patterns\state\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\state\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\state && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\state\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\state\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\strategy\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\strategy && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\strategy\edit_cache: phony Design-Patterns\Behavioral-Patterns\strategy\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\strategy\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\strategy && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\strategy\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\strategy\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\template-method\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\template-method && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\template-method\edit_cache: phony Design-Patterns\Behavioral-Patterns\template-method\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\template-method\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\template-method && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\template-method\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\template-method\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Behavioral-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Behavioral-Patterns\visitor\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\visitor && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\visitor\edit_cache: phony Design-Patterns\Behavioral-Patterns\visitor\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Behavioral-Patterns\visitor\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Behavioral-Patterns\visitor && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Behavioral-Patterns\visitor\rebuild_cache: phony Design-Patterns\Behavioral-Patterns\visitor\CMakeFiles\rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -176,6 +624,230 @@ build Design-Patterns\Structural-Patterns\CMakeFiles\rebuild_cache.util: CUSTOM_
 build Design-Patterns\Structural-Patterns\rebuild_cache: phony Design-Patterns\Structural-Patterns\CMakeFiles\rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\adapter\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\adapter && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\adapter\edit_cache: phony Design-Patterns\Structural-Patterns\adapter\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\adapter\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\adapter && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\adapter\rebuild_cache: phony Design-Patterns\Structural-Patterns\adapter\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\bridge\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\bridge && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\bridge\edit_cache: phony Design-Patterns\Structural-Patterns\bridge\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\bridge\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\bridge && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\bridge\rebuild_cache: phony Design-Patterns\Structural-Patterns\bridge\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\composite\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\composite && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\composite\edit_cache: phony Design-Patterns\Structural-Patterns\composite\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\composite\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\composite && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\composite\rebuild_cache: phony Design-Patterns\Structural-Patterns\composite\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\decorator\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\decorator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\decorator\edit_cache: phony Design-Patterns\Structural-Patterns\decorator\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\decorator\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\decorator && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\decorator\rebuild_cache: phony Design-Patterns\Structural-Patterns\decorator\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\facade\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\facade && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\facade\edit_cache: phony Design-Patterns\Structural-Patterns\facade\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\facade\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\facade && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\facade\rebuild_cache: phony Design-Patterns\Structural-Patterns\facade\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\flyweight\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\flyweight && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\flyweight\edit_cache: phony Design-Patterns\Structural-Patterns\flyweight\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\flyweight\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\flyweight && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\flyweight\rebuild_cache: phony Design-Patterns\Structural-Patterns\flyweight\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Structural-Patterns/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Design-Patterns\Structural-Patterns\proxy\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\proxy && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\proxy\edit_cache: phony Design-Patterns\Structural-Patterns\proxy\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Design-Patterns\Structural-Patterns\proxy\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Design-Patterns\Structural-Patterns\proxy && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Design-Patterns\Structural-Patterns\proxy\rebuild_cache: phony Design-Patterns\Structural-Patterns\proxy\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/CppWorkspace-VisualStudio2022/CPP-Study/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build Algorithms\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Algorithms && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build Algorithms\edit_cache: phony Algorithms\CMakeFiles\edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build Algorithms\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D C:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug\Algorithms && "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SC:\CppWorkspace-VisualStudio2022\CPP-Study -BC:\CppWorkspace-VisualStudio2022\CPP-Study\out\build\x64-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build Algorithms\rebuild_cache: phony Algorithms\CMakeFiles\rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 # =============================================================================
@@ -186,7 +858,14 @@ build Design-Patterns\Structural-Patterns\rebuild_cache: phony Design-Patterns\S
 #############################################
 # Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug
 
-build all: phony Design-Patterns\all
+build all: phony Design-Patterns\all Algorithms\all
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Algorithms
+
+build Algorithms\all: phony
 
 # =============================================================================
 
@@ -200,21 +879,182 @@ build Design-Patterns\all: phony Design-Patterns\Creational-Patterns\all Design-
 #############################################
 # Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns
 
-build Design-Patterns\Behavioral-Patterns\all: phony
+build Design-Patterns\Behavioral-Patterns\all: phony Design-Patterns\Behavioral-Patterns\chain-of-responsibility\all Design-Patterns\Behavioral-Patterns\command\all Design-Patterns\Behavioral-Patterns\interpreter\all Design-Patterns\Behavioral-Patterns\iterator\all Design-Patterns\Behavioral-Patterns\mediator\all Design-Patterns\Behavioral-Patterns\memento\all Design-Patterns\Behavioral-Patterns\observer\all Design-Patterns\Behavioral-Patterns\state\all Design-Patterns\Behavioral-Patterns\strategy\all Design-Patterns\Behavioral-Patterns\template-method\all Design-Patterns\Behavioral-Patterns\visitor\all
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/chain-of-responsibility
+
+build Design-Patterns\Behavioral-Patterns\chain-of-responsibility\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/command
+
+build Design-Patterns\Behavioral-Patterns\command\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/interpreter
+
+build Design-Patterns\Behavioral-Patterns\interpreter\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/iterator
+
+build Design-Patterns\Behavioral-Patterns\iterator\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/mediator
+
+build Design-Patterns\Behavioral-Patterns\mediator\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/memento
+
+build Design-Patterns\Behavioral-Patterns\memento\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/observer
+
+build Design-Patterns\Behavioral-Patterns\observer\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/state
+
+build Design-Patterns\Behavioral-Patterns\state\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/strategy
+
+build Design-Patterns\Behavioral-Patterns\strategy\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/template-method
+
+build Design-Patterns\Behavioral-Patterns\template-method\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/visitor
+
+build Design-Patterns\Behavioral-Patterns\visitor\all: phony
 
 # =============================================================================
 
 #############################################
 # Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns
 
-build Design-Patterns\Creational-Patterns\all: phony
+build Design-Patterns\Creational-Patterns\all: phony Design-Patterns\Creational-Patterns\factory-method\all Design-Patterns\Creational-Patterns\abstract-factory\all Design-Patterns\Creational-Patterns\Builder\all Design-Patterns\Creational-Patterns\prototype\all Design-Patterns\Creational-Patterns\Singleton\all
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/Builder
+
+build Design-Patterns\Creational-Patterns\Builder\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/Singleton
+
+build Design-Patterns\Creational-Patterns\Singleton\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory
+
+build Design-Patterns\Creational-Patterns\abstract-factory\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/factory-method
+
+build Design-Patterns\Creational-Patterns\factory-method\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/prototype
+
+build Design-Patterns\Creational-Patterns\prototype\all: phony
 
 # =============================================================================
 
 #############################################
 # Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns
 
-build Design-Patterns\Structural-Patterns\all: phony
+build Design-Patterns\Structural-Patterns\all: phony Design-Patterns\Structural-Patterns\adapter\all Design-Patterns\Structural-Patterns\bridge\all Design-Patterns\Structural-Patterns\composite\all Design-Patterns\Structural-Patterns\decorator\all Design-Patterns\Structural-Patterns\facade\all Design-Patterns\Structural-Patterns\flyweight\all Design-Patterns\Structural-Patterns\proxy\all
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/adapter
+
+build Design-Patterns\Structural-Patterns\adapter\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/bridge
+
+build Design-Patterns\Structural-Patterns\bridge\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/composite
+
+build Design-Patterns\Structural-Patterns\composite\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/decorator
+
+build Design-Patterns\Structural-Patterns\decorator\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/facade
+
+build Design-Patterns\Structural-Patterns\facade\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/flyweight
+
+build Design-Patterns\Structural-Patterns\flyweight\all: phony
+
+# =============================================================================
+
+#############################################
+# Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/proxy
+
+build Design-Patterns\Structural-Patterns\proxy\all: phony
 
 # =============================================================================
 # Built-in targets
@@ -223,14 +1063,14 @@ build Design-Patterns\Structural-Patterns\all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:\CppWorkspace-VisualStudio2022\CPP-Study\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\CMakeLists.txt C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.29.5-msvc4\CMakeCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeCXXCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeRCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:\CppWorkspace-VisualStudio2022\CPP-Study\Algorithms\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\command\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\interpreter\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\iterator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\mediator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\memento\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\observer\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\state\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\strategy\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\template-method\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\visitor\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\abstract-factory\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\builder\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\prototype\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\singleton\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\adapter\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\bridge\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\composite\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\decorator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\facade\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\flyweight\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\proxy\CMakeLists.txt C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.29.5-msvc4\CMakeCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeCXXCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeRCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:\CppWorkspace-VisualStudio2022\CPP-Study\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\CMakeLists.txt C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.29.5-msvc4\CMakeCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeCXXCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeRCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeSystem.cmake: phony
+build C$:\CppWorkspace-VisualStudio2022\CPP-Study\Algorithms\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\chain-of-responsibility\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\command\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\interpreter\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\iterator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\mediator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\memento\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\observer\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\state\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\strategy\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\template-method\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Behavioral-Patterns\visitor\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\abstract-factory\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\builder\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\prototype\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\singleton\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\adapter\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\bridge\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\composite\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\decorator\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\facade\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\flyweight\CMakeLists.txt C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Structural-Patterns\proxy\CMakeLists.txt C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCXXInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeCommonLanguageInclude.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeGenericSystem.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeInitializeConfigs.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeLanguageInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeRCInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInformation.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\CMakeSystemSpecificInitialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\CMakeCommonCompilerMacros.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Compiler\MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-Initialize.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-C.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC-CXX.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows-MSVC.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\Windows.cmake C$:\Program$ Files\Microsoft$ Visual$ Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.29\Modules\Platform\WindowsPaths.cmake CMakeCache.txt CMakeFiles\3.29.5-msvc4\CMakeCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeCXXCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeRCCompiler.cmake CMakeFiles\3.29.5-msvc4\CMakeSystem.cmake: phony
 
 
 #############################################

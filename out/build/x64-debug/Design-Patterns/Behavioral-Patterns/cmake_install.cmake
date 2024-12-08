@@ -32,3 +32,19 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/chain-of-responsibility/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/command/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/interpreter/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/iterator/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/mediator/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/memento/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/observer/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/state/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/strategy/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/template-method/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Behavioral-Patterns/visitor/cmake_install.cmake")
+
+endif()
+
