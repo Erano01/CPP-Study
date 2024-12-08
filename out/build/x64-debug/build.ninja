@@ -124,6 +124,43 @@ build Design-Patterns\Creational-Patterns\rebuild_cache: phony Design-Patterns\C
 # C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/CMakeLists.txt
 # =============================================================================
 
+# =============================================================================
+# Object build statements for EXECUTABLE target factory-method_main
+
+
+#############################################
+# Order-only phony target for factory-method_main
+
+build cmake_object_order_depends_target_factory-method_main: phony || .
+
+build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\main.cpp.obj: CXX_COMPILER__factory-method_main_unscanned_Debug C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\main.cpp || cmake_object_order_depends_target_factory-method_main
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++latest -ZI
+  INCLUDES = -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method
+  OBJECT_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  OBJECT_FILE_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  TARGET_COMPILE_PDB = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\
+  TARGET_PDB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target factory-method_main
+
+
+#############################################
+# Link the executable Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
+
+build Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe: CXX_EXECUTABLE_LINKER__factory-method_main_Debug Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\main.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\
+  TARGET_FILE = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
+  TARGET_IMPLIB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.lib
+  TARGET_PDB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.pdb
+
 
 #############################################
 # Utility command for edit_cache
@@ -850,6 +887,10 @@ build Algorithms\rebuild_cache: phony Algorithms\CMakeFiles\rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build factory-method_main: phony Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
+
+build factory-method_main.exe: phony Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -991,7 +1032,7 @@ build Design-Patterns\Creational-Patterns\abstract-factory\all: phony
 #############################################
 # Folder: C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/factory-method
 
-build Design-Patterns\Creational-Patterns\factory-method\all: phony
+build Design-Patterns\Creational-Patterns\factory-method\all: phony Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
 
 # =============================================================================
 
