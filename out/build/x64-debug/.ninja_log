@@ -1,3 +1,8 @@
 # ninja log v6
 16	2731	7553876478895567	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
 2732	3667	7553876506055364	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	52d1494729622180
+39	1453	7553908438587441	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/PDFDocument.cpp.obj	22885b2aa076c6e8
+26	1457	7553908438456249	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/Document.cpp.obj	323cb293c90e11ab
+43	1467	7553908438627437	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/AdobeAcrobatClient.cpp.obj	5c7a05e8880a00e0
+34	902	7553908515073193	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
+903	1287	7553908523762104	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	93fa172b190b3ee7

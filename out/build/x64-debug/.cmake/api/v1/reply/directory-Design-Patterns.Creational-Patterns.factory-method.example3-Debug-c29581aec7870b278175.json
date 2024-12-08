@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Design-Patterns/Creational-Patterns/factory-method/example3",
+		"source" : "Design-Patterns/Creational-Patterns/factory-method/example3"
+	}
+}

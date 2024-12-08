@@ -150,6 +150,21 @@
 			"path" : "Design-Patterns/Creational-Patterns/factory-method/CMakeLists.txt"
 		},
 		{
+			"path" : "Design-Patterns/Creational-Patterns/factory-method/example1/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/factory-method/example2/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/factory-method/example3/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/factory-method/example4/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/factory-method/example5/CMakeLists.txt"
+		},
+		{
 			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/CMakeLists.txt"
 		},
 		{

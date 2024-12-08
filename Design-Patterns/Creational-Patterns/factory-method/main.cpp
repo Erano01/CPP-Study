@@ -1,6 +1,9 @@
 #include <iostream>
+#include <example1/AdobeAcrobatClient.h>
 
 int main() {
-    std::cout << "Factory Method Pattern Example" << std::endl;
+    AdobeAcrobatClient adobeAcrobatClient;
+    auto document = adobeAcrobatClient.newDocument();
+    adobeAcrobatClient.openDocument(document);
     return 0;
 }
