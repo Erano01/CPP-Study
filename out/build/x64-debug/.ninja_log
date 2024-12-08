@@ -1,8 +1,18 @@
 # ninja log v6
-16	2731	7553876478895567	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
-2732	3667	7553876506055364	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	52d1494729622180
-39	1453	7553908438587441	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/PDFDocument.cpp.obj	22885b2aa076c6e8
-26	1457	7553908438456249	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/Document.cpp.obj	323cb293c90e11ab
-43	1467	7553908438627437	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/AdobeAcrobatClient.cpp.obj	5c7a05e8880a00e0
-34	902	7553908515073193	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
-903	1287	7553908523762104	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	93fa172b190b3ee7
+24	1262	7553989937739584	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
+1273	1549	7553989950222402	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	6f909eaade099528
+29	908	7553969914862826	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/Document.cpp.obj	323cb293c90e11ab
+29	1246	7553989937789601	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/PDFDocument.cpp.obj	22885b2aa076c6e8
+32	1265	7553989937819604	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/AdobeAcrobatClient.cpp.obj	5c7a05e8880a00e0
+36	1273	7553989937849607	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefBurger.cpp.obj	a8382f1d82c717e8
+35	1318	7554041031698270	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefRestaurant.cpp.obj	69915248959c1f0b
+30	1341	7554041031658268	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/Restaurant.cpp.obj	7d348ffaee59eaf6
+22	1354	7554041031578240	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefBurger.cpp.obj	a8382f1d82c717e8
+27	1358	7554041031628268	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/VeggieBurger.cpp.obj	9f009e3db401478c
+50	906	7554051339358266	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/Restaurant.cpp.obj	7d348ffaee59eaf6
+47	1445	7554051339328257	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/VeggieBurger.cpp.obj	9f009e3db401478c
+43	1457	7554051339288253	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefBurger.cpp.obj	a8382f1d82c717e8
+59	1461	7554051339438285	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/VeggieRestaurant.cpp.obj	a583cbf6c2e80abc
+54	1464	7554051339398276	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefRestaurant.cpp.obj	69915248959c1f0b
+38	1473	7554051339238244	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	fc641149412c99b4
+1473	1823	7554051353591560	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	206854a3cb01d7ac

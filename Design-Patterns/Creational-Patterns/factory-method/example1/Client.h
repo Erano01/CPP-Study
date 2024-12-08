@@ -2,6 +2,7 @@
 #include <memory>
 #include "Document.h"
 
+//Abstract Creator
 class Client {
 public:
     virtual ~Client() = default;
