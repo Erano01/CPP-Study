@@ -6,5 +6,7 @@
 //concrete creator
 class VeggieRestaurant : public Restaurant {
 protected:
-    std::unique_ptr<Burger> createBurger() const override;
+    std::unique_ptr<Burger> createBurger() const override {
+        return std::make_unique<VeggieBurger>();
+    };
 };

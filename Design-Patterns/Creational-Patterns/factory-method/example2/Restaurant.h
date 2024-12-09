@@ -4,10 +4,13 @@
 
 //abstract creator
 class Restaurant {
-public:
-	virtual ~Restaurant() = default;
-	std::unique_ptr<Burger> orderBurger(); //you can use Burger* instead of smart pointer
 protected:
 	virtual std::unique_ptr<Burger> createBurger() const = 0;
-
+public:
+	virtual ~Restaurant() = default;
+	std::unique_ptr<Burger> orderBurger() {
+		std::unique_ptr<Burger> burger = createBurger();
+		burger->prepare();
+		return burger;
+	};
 };
