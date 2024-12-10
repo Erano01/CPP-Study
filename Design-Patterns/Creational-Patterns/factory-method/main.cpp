@@ -5,6 +5,9 @@
 #include <example3/MessageFactory.h>
 #include <example3/TextMessageFactory.h>
 #include <example3/JsonMessageFactory.h>
+#include <example4/Figure.h>
+#include <example4/TextFigure.h>
+#include <example4/LineFigure.h>
 
 int main() {
 
@@ -40,6 +43,28 @@ int main() {
     std::unique_ptr<Message> jsonMsg = jsonFactory->getMessage();
     std::cout << "JSON Message Content: " << jsonMsg->getContent() << std::endl;
 
+    std::cout << "--------------" << std::endl;
+    std::cout << "--Example 4 ->" << std::endl;
+    std::cout << "--------------" << std::endl;
+
+    //ex4
+    std::unique_ptr<Figure> textFigure = std::make_unique<TextFigure>(); //Factory for TextManipulator
+    std::unique_ptr<Manipulator> textManipulator = textFigure->getManipulator();
+    textManipulator->downClick();
+    textManipulator->upClick();
+    textManipulator->drag();
+
+    std::unique_ptr<Figure> lineFigure = std::make_unique<LineFigure>(); //Factory for TextManipulator
+    std::unique_ptr<Manipulator> lineManipulator = lineFigure->getManipulator();
+    lineManipulator->downClick();
+    lineManipulator->upClick();
+    lineManipulator->drag();
+
+    std::cout << "--------------" << std::endl;
+    std::cout << "--Example 5 ->" << std::endl;
+    std::cout << "--------------" << std::endl;
+
+    //ex5
 
     return 0;
 }

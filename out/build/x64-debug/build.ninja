@@ -135,9 +135,25 @@ build cmake_object_order_depends_target_factory-method_main: phony || .
 
 build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\main.cpp.obj: CXX_COMPILER__factory-method_main_unscanned_Debug C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\main.cpp || cmake_object_order_depends_target_factory-method_main
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++latest -ZI
-  INCLUDES = -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method
+  INCLUDES = -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example1 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example2 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example3 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example4
   OBJECT_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
   OBJECT_FILE_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  TARGET_COMPILE_PDB = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\
+  TARGET_PDB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.pdb
+
+build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4\TextManipulator.cpp.obj: CXX_COMPILER__factory-method_main_unscanned_Debug C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example4\TextManipulator.cpp || cmake_object_order_depends_target_factory-method_main
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++latest -ZI
+  INCLUDES = -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example1 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example2 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example3 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example4
+  OBJECT_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  OBJECT_FILE_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4
+  TARGET_COMPILE_PDB = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\
+  TARGET_PDB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.pdb
+
+build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4\LineManipulator.cpp.obj: CXX_COMPILER__factory-method_main_unscanned_Debug C$:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example4\LineManipulator.cpp || cmake_object_order_depends_target_factory-method_main
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++latest -ZI
+  INCLUDES = -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example1 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example2 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example3 -IC:\CppWorkspace-VisualStudio2022\CPP-Study\Design-Patterns\Creational-Patterns\factory-method\example4
+  OBJECT_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir
+  OBJECT_FILE_DIR = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4
   TARGET_COMPILE_PDB = Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\
   TARGET_PDB = Design-Patterns\Creational-Patterns\factory-method\factory-method_main.pdb
 
@@ -149,7 +165,7 @@ build Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-meth
 #############################################
 # Link the executable Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe
 
-build Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe: CXX_EXECUTABLE_LINKER__factory-method_main_Debug Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\main.cpp.obj
+build Design-Patterns\Creational-Patterns\factory-method\factory-method_main.exe: CXX_EXECUTABLE_LINKER__factory-method_main_Debug Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\main.cpp.obj Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4\TextManipulator.cpp.obj Design-Patterns\Creational-Patterns\factory-method\CMakeFiles\factory-method_main.dir\example4\LineManipulator.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
