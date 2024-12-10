@@ -168,6 +168,21 @@
 			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/CMakeLists.txt"
 		},
 		{
+			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/example1/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/example2/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/example3/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/example4/CMakeLists.txt"
+		},
+		{
+			"path" : "Design-Patterns/Creational-Patterns/abstract-factory/example5/CMakeLists.txt"
+		},
+		{
 			"path" : "Design-Patterns/Creational-Patterns/builder/CMakeLists.txt"
 		},
 		{

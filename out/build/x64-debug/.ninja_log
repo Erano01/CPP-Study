@@ -1,6 +1,6 @@
 # ninja log v6
-21	1008	7555669823731057	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	d5b14dfa9b7dbcd7
-1009	1212	7555669833611025	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	762729113dcc3ee8
+29	1105	7555681235910277	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	9a7fb322b164ba3
+1105	1430	7555681246672751	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	1355bb33d2bc784f
 29	908	7553969914862826	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/Document.cpp.obj	323cb293c90e11ab
 50	906	7554051339358266	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/Restaurant.cpp.obj	7d348ffaee59eaf6
 29	1246	7553989937789601	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example1/PDFDocument.cpp.obj	22885b2aa076c6e8
@@ -9,23 +9,7 @@
 43	1457	7554051339288253	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/BeefBurger.cpp.obj	a8382f1d82c717e8
 47	1445	7554051339328257	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/VeggieBurger.cpp.obj	9f009e3db401478c
 59	1461	7554051339438285	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example2/VeggieRestaurant.cpp.obj	a583cbf6c2e80abc
-27	964	7555669140642665	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/TextManipulator.cpp.obj	d832c11dfeb9103d
-29	53	7555666272465633	clean	8c45b54705a541e8
-36	964	7555669421246013	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/LineManipulator.cpp.obj	7bc48c6c1d3613cc
-31	1267	7555679572078759	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/LineManipulator.cpp.obj	4d79a855a3f9575e
-27	1284	7555679572038748	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/TextManipulator.cpp.obj	3405bd3027e81375
-35	1316	7555679572118767	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example5/JoshuaDocument.cpp.obj	1c8b8f42fdaeccc8
-30	55	7555680204374699	clean	8c45b54705a541e8
-37	1009	7555680219868239	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/LineManipulator.cpp.obj	4d79a855a3f9575e
-34	1042	7555680219838237	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/TextManipulator.cpp.obj	3405bd3027e81375
-41	1056	7555680219908262	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example5/JoshuaDocument.cpp.obj	1c8b8f42fdaeccc8
-31	55	7555680961288284	clean	8c45b54705a541e8
-57	1115	7555680977494492	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/LineManipulator.cpp.obj	4d79a855a3f9575e
-54	1148	7555680977455786	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/TextManipulator.cpp.obj	3405bd3027e81375
-49	1218	7555680977405776	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	9a7fb322b164ba3
-27	51	7555681226638127	clean	8c45b54705a541e8
 34	1021	7555681235950287	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/TextManipulator.cpp.obj	3405bd3027e81375
+27	51	7555681226638127	clean	8c45b54705a541e8
 37	1026	7555681235990452	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example4/LineManipulator.cpp.obj	4d79a855a3f9575e
 40	1044	7555681236020306	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/example5/JoshuaDocument.cpp.obj	1c8b8f42fdaeccc8
-29	1105	7555681235910277	Design-Patterns/Creational-Patterns/factory-method/CMakeFiles/factory-method_main.dir/main.cpp.obj	9a7fb322b164ba3
-1105	1430	7555681246672751	Design-Patterns/Creational-Patterns/factory-method/factory-method_main.exe	1355bb33d2bc784f

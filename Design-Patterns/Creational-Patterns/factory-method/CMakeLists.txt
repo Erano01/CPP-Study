@@ -1,5 +1,7 @@
+set(TARGET_NAME "factory-method_main")
+
 # Define the executable
-add_executable(factory-method_main 
+add_executable(${TARGET_NAME}
     main.cpp
     "example4/TextManipulator.cpp"
     "example4/LineManipulator.cpp"
@@ -7,7 +9,7 @@ add_executable(factory-method_main
 
 )
 # Include directories for the headers
-target_include_directories(factory-method_main PRIVATE 
+target_include_directories(${TARGET_NAME} PRIVATE 
     ${CMAKE_CURRENT_SOURCE_DIR}
     "example1"
     "example2"

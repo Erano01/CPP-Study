@@ -9,7 +9,7 @@
 					"childIndexes" : 
 					[
 						1,
-						33
+						38
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -24,8 +24,8 @@
 					"childIndexes" : 
 					[
 						2,
-						13,
-						25
+						18,
+						30
 					],
 					"jsonFile" : "directory-Design-Patterns-Debug-4553ad107b5996a325e8.json",
 					"minimumCMakeVersion" : 
@@ -42,9 +42,9 @@
 					[
 						3,
 						9,
-						10,
-						11,
-						12
+						15,
+						16,
+						17
 					],
 					"jsonFile" : "directory-Design-Patterns.Creational-Patterns-Debug-56010b2874ee17f80535.json",
 					"minimumCMakeVersion" : 
@@ -75,7 +75,7 @@
 					"source" : "Design-Patterns/Creational-Patterns/factory-method",
 					"targetIndexes" : 
 					[
-						0
+						1
 					]
 				},
 				{
@@ -135,6 +135,14 @@
 				},
 				{
 					"build" : "Design-Patterns/Creational-Patterns/abstract-factory",
+					"childIndexes" : 
+					[
+						10,
+						11,
+						12,
+						13,
+						14
+					],
 					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory-Debug-e1389bb4dc786641cf4c.json",
 					"minimumCMakeVersion" : 
 					{
@@ -142,7 +150,66 @@
 					},
 					"parentIndex" : 2,
 					"projectIndex" : 0,
-					"source" : "Design-Patterns/Creational-Patterns/abstract-factory"
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory/example1",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory.example1-Debug-cdc93fa682391d36ccd1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory/example1"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory/example2",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory.example2-Debug-cf52f26bf61e0be77e50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory/example2"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory/example3",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory.example3-Debug-3a290941b84257e265ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory/example3"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory/example4",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory.example4-Debug-8377781f70011a536267.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory/example4"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory/example5",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory.example5-Debug-b7143f949203125ac048.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory/example5"
 				},
 				{
 					"build" : "Design-Patterns/Creational-Patterns/Builder",
@@ -181,17 +248,17 @@
 					"build" : "Design-Patterns/Behavioral-Patterns",
 					"childIndexes" : 
 					[
-						14,
-						15,
-						16,
-						17,
-						18,
 						19,
 						20,
 						21,
 						22,
 						23,
-						24
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
 					],
 					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns-Debug-a42fd7db283294db162d.json",
 					"minimumCMakeVersion" : 
@@ -209,7 +276,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/chain-of-responsibility"
 				},
@@ -220,7 +287,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/command"
 				},
@@ -231,7 +298,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/interpreter"
 				},
@@ -242,7 +309,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/iterator"
 				},
@@ -253,7 +320,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/mediator"
 				},
@@ -264,7 +331,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/memento"
 				},
@@ -275,7 +342,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/observer"
 				},
@@ -286,7 +353,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/state"
 				},
@@ -297,7 +364,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/strategy"
 				},
@@ -308,7 +375,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/template-method"
 				},
@@ -319,7 +386,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 13,
+					"parentIndex" : 18,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Behavioral-Patterns/visitor"
 				},
@@ -327,13 +394,13 @@
 					"build" : "Design-Patterns/Structural-Patterns",
 					"childIndexes" : 
 					[
-						26,
-						27,
-						28,
-						29,
-						30,
 						31,
-						32
+						32,
+						33,
+						34,
+						35,
+						36,
+						37
 					],
 					"jsonFile" : "directory-Design-Patterns.Structural-Patterns-Debug-4a2f3db7a5bc493c66c4.json",
 					"minimumCMakeVersion" : 
@@ -351,7 +418,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/adapter"
 				},
@@ -362,7 +429,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/bridge"
 				},
@@ -373,7 +440,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/composite"
 				},
@@ -384,7 +451,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/decorator"
 				},
@@ -395,7 +462,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/facade"
 				},
@@ -406,7 +473,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/flyweight"
 				},
@@ -417,7 +484,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 25,
+					"parentIndex" : 30,
 					"projectIndex" : 0,
 					"source" : "Design-Patterns/Structural-Patterns/proxy"
 				},
@@ -472,21 +539,34 @@
 						30,
 						31,
 						32,
-						33
+						33,
+						34,
+						35,
+						36,
+						37,
+						38
 					],
 					"name" : "CPP-Study",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
+					"directoryIndex" : 9,
+					"id" : "abstract-factory_main::@54d73e2fbd15919cdee4",
+					"jsonFile" : "target-abstract-factory_main-Debug-00e8a319d94fb4cf0585.json",
+					"name" : "abstract-factory_main",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 3,
 					"id" : "factory-method_main::@6fe980a8ea798b5fefc6",
-					"jsonFile" : "target-factory-method_main-Debug-122ae29b8e7036c49e97.json",
+					"jsonFile" : "target-factory-method_main-Debug-66d5705b723df0ee3a27.json",
 					"name" : "factory-method_main",
 					"projectIndex" : 0
 				}
