@@ -8,6 +8,7 @@
 #include <example4/Figure.h>
 #include <example4/TextFigure.h>
 #include <example4/LineFigure.h>
+#include <example5/JoshuaDocument.h>
 
 int main() {
 
@@ -65,6 +66,13 @@ int main() {
     std::cout << "--------------" << std::endl;
 
     //ex5
+    auto wordDoc = JoshuaDocument::createWordDocument("Document1");
+    auto pdfDoc = JoshuaDocument::createPdfDocument("Document2");
+    auto excelDoc = JoshuaDocument::createExcelDocument("Document3");
+
+    std::cout << wordDoc->toString() << std::endl;
+    std::cout << pdfDoc->toString() << std::endl;
+    std::cout << excelDoc->toString() << std::endl;
 
     return 0;
 }
