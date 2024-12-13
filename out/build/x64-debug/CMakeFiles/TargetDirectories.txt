@@ -78,3 +78,5 @@ C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/S
 C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Structural-Patterns/proxy/CMakeFiles/rebuild_cache.dir
 C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Algorithms/CMakeFiles/edit_cache.dir
 C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Algorithms/CMakeFiles/rebuild_cache.dir
+C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/OOP/CMakeFiles/edit_cache.dir
+C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/OOP/CMakeFiles/rebuild_cache.dir

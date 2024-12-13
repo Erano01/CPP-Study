@@ -1,4 +1,4 @@
-# Install script for directory: C:/CppWorkspace-VisualStudio2022/CPP-Study
+# Install script for directory: C:/CppWorkspace-VisualStudio2022/CPP-Study/OOP
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -32,21 +32,3 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Algorithms/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/OOP/cmake_install.cmake")
-
-endif()
-
-if(CMAKE_INSTALL_COMPONENT)
-  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
-else()
-  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
-endif()
-
-string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
-       "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/${CMAKE_INSTALL_MANIFEST}"
-     "${CMAKE_INSTALL_MANIFEST_CONTENT}")

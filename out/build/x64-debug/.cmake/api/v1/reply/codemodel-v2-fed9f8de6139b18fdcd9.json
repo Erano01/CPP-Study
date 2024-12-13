@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						38
+						38,
+						39
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -498,6 +499,17 @@
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "Algorithms"
+				},
+				{
+					"build" : "OOP",
+					"jsonFile" : "directory-OOP-Debug-93f93607cf2eb093d030.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OOP"
 				}
 			],
 			"name" : "Debug",
@@ -544,7 +556,8 @@
 						35,
 						36,
 						37,
-						38
+						38,
+						39
 					],
 					"name" : "CPP-Study",
 					"targetIndexes" : 
@@ -559,7 +572,7 @@
 				{
 					"directoryIndex" : 9,
 					"id" : "abstract-factory_main::@54d73e2fbd15919cdee4",
-					"jsonFile" : "target-abstract-factory_main-Debug-00e8a319d94fb4cf0585.json",
+					"jsonFile" : "target-abstract-factory_main-Debug-e6d466ffe62d696e235d.json",
 					"name" : "abstract-factory_main",
 					"projectIndex" : 0
 				},

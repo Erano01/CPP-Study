@@ -253,6 +253,9 @@
 		},
 		{
 			"path" : "Algorithms/CMakeLists.txt"
+		},
+		{
+			"path" : "OOP/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
