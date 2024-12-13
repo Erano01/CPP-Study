@@ -1,10 +1,8 @@
 #pragma once
-#include "Unit.h"
-#include <memory>
+#include "AbstractUnit.h"
 
-class LandMilitary : public Unit{
+class LandMilitary : public AbstractUnit{
 protected:
-	virtual void takeDamage(Unit* from);
-	virtual void handAttack(Unit* to);
-
+	virtual void takeDamage(AbstractUnit* from);
+	virtual void handAttack(AbstractUnit* to);
 };

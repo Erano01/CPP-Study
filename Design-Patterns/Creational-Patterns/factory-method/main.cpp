@@ -1,14 +1,14 @@
 #include <iostream>
-#include <example1/AdobeAcrobatClient.h>
-#include <example2/BeefRestaurant.h>
-#include <example2/VeggieRestaurant.h>
-#include <example3/MessageFactory.h>
-#include <example3/TextMessageFactory.h>
-#include <example3/JsonMessageFactory.h>
-#include <example4/Figure.h>
-#include <example4/TextFigure.h>
-#include <example4/LineFigure.h>
-#include <example5/JoshuaDocument.h>
+#include "example1/AdobeAcrobatClient.h"
+#include "example2/BeefRestaurant.h"
+#include "example2/VeggieRestaurant.h"
+#include "example3/MessageFactory.h"
+#include "example3/TextMessageFactory.h"
+#include "example3/JsonMessageFactory.h"
+#include "example4/Figure.h"
+#include "example4/TextFigure.h"
+#include "example4/LineFigure.h"
+#include "example5/JoshuaDocument.h"
 
 int main() {
 

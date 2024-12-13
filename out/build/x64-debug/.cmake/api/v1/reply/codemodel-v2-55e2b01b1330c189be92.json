@@ -1,0 +1,522 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						28,
+						29,
+						30
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Design-Patterns",
+					"childIndexes" : 
+					[
+						2,
+						8,
+						20
+					],
+					"jsonFile" : "directory-Design-Patterns-Debug-4553ad107b5996a325e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns-Debug-56010b2874ee17f80535.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/factory-method",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.factory-method-Debug-6a0d899e17f005059b4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 1,
+					"source" : "Design-Patterns/Creational-Patterns/factory-method",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/abstract-factory",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.abstract-factory-Debug-e1389bb4dc786641cf4c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "Design-Patterns/Creational-Patterns/abstract-factory",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/Builder",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.Builder-Debug-083c2ad34c2fa99058c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/builder"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/prototype",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.prototype-Debug-fa15acff988c6aeeab2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/prototype"
+				},
+				{
+					"build" : "Design-Patterns/Creational-Patterns/Singleton",
+					"jsonFile" : "directory-Design-Patterns.Creational-Patterns.Singleton-Debug-2b746eebf0d93c7423f3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Creational-Patterns/singleton"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns",
+					"childIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					],
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns-Debug-a42fd7db283294db162d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/chain-of-responsibility",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.chain-of-responsibility-Debug-7695a98a568b526c0e4e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/chain-of-responsibility"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/command",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.command-Debug-1b944db12c49301d9e09.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/command"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/interpreter",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.interpreter-Debug-b848b9b3383c6864a496.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/interpreter"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/iterator",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.iterator-Debug-cfaffc396f4ac57d2f04.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/iterator"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/mediator",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.mediator-Debug-6dbbde26dd846741b3ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/mediator"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/memento",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.memento-Debug-495ea48f56cba8295024.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/memento"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/observer",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.observer-Debug-5b936e8d0cd859f868d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/observer"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/state",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.state-Debug-37bbb6033e8c9e4d2cc1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/state"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/strategy",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.strategy-Debug-682c64a06f2a4e7fd590.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/strategy"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/template-method",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.template-method-Debug-6f829741c1f28ce53ccf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/template-method"
+				},
+				{
+					"build" : "Design-Patterns/Behavioral-Patterns/visitor",
+					"jsonFile" : "directory-Design-Patterns.Behavioral-Patterns.visitor-Debug-5c87e2f1cac685ec02c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Behavioral-Patterns/visitor"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns",
+					"childIndexes" : 
+					[
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27
+					],
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns-Debug-4a2f3db7a5bc493c66c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/adapter",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.adapter-Debug-764eefe7737aee17fb10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/adapter"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/bridge",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.bridge-Debug-fab08c710b3144469977.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/bridge"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/composite",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.composite-Debug-fe1c9b82319b02db4647.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/composite"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/decorator",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.decorator-Debug-0cf0a15aee12aa1e5d83.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/decorator"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/facade",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.facade-Debug-0dfba2de6bf79a44daea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/facade"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/flyweight",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.flyweight-Debug-8f7c93cac6e2e7369cd7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/flyweight"
+				},
+				{
+					"build" : "Design-Patterns/Structural-Patterns/proxy",
+					"jsonFile" : "directory-Design-Patterns.Structural-Patterns.proxy-Debug-f857b64d7320febf87bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 0,
+					"source" : "Design-Patterns/Structural-Patterns/proxy"
+				},
+				{
+					"build" : "Algorithms",
+					"jsonFile" : "directory-Algorithms-Debug-08e2846d29894dbec0c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Algorithms"
+				},
+				{
+					"build" : "OOP",
+					"jsonFile" : "directory-OOP-Debug-93f93607cf2eb093d030.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "OOP"
+				},
+				{
+					"build" : "AgeOfEmpires3DE-API",
+					"jsonFile" : "directory-AgeOfEmpires3DE-API-Debug-5f3820487ea9596e9069.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "AgeOfEmpires3DE-API",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"name" : "CPP-Study"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "factory-method",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "abstract-factory",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						30
+					],
+					"name" : "AgeOfEmpires3DE-API",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 30,
+					"id" : "AgeOfEmpires3DE-API::@bdd4abf381c39a94945f",
+					"jsonFile" : "target-AgeOfEmpires3DE-API-Debug-3972cae9b61ebbbd7c41.json",
+					"name" : "AgeOfEmpires3DE-API",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "abstract-factory_main::@54d73e2fbd15919cdee4",
+					"jsonFile" : "target-abstract-factory_main-Debug-2b5c399a8059f96ed010.json",
+					"name" : "abstract-factory_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "factory-method_main::@6fe980a8ea798b5fefc6",
+					"jsonFile" : "target-factory-method_main-Debug-b696920359aab3eda363.json",
+					"name" : "factory-method_main",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug",
+		"source" : "C:/CppWorkspace-VisualStudio2022/CPP-Study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

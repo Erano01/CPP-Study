@@ -32,13 +32,3 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory/example1/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory/example2/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory/example3/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory/example4/cmake_install.cmake")
-  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory/example5/cmake_install.cmake")
-
-endif()
-

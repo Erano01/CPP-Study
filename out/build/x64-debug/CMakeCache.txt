@@ -231,6 +231,24 @@ Design-Patterns_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 Design-Patterns_SOURCE_DIR:STATIC=C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns
 
+//Value Computed by CMake
+abstract-factory_BINARY_DIR:STATIC=C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/abstract-factory
+
+//Value Computed by CMake
+abstract-factory_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+abstract-factory_SOURCE_DIR:STATIC=C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/abstract-factory
+
+//Value Computed by CMake
+factory-method_BINARY_DIR:STATIC=C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/Creational-Patterns/factory-method
+
+//Value Computed by CMake
+factory-method_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+factory-method_SOURCE_DIR:STATIC=C:/CppWorkspace-VisualStudio2022/CPP-Study/Design-Patterns/Creational-Patterns/factory-method
+
 
 ########################
 # INTERNAL cache entries
@@ -322,7 +340,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=41
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=31
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib
