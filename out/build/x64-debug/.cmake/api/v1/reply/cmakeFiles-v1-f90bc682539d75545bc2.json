@@ -256,6 +256,9 @@
 		},
 		{
 			"path" : "OOP/CMakeLists.txt"
+		},
+		{
+			"path" : "AgeOfEmpires3DE-API/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

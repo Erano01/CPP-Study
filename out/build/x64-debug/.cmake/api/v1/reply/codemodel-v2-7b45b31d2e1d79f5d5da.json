@@ -10,7 +10,8 @@
 					[
 						1,
 						38,
-						39
+						39,
+						40
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -76,7 +77,7 @@
 					"source" : "Design-Patterns/Creational-Patterns/factory-method",
 					"targetIndexes" : 
 					[
-						1
+						2
 					]
 				},
 				{
@@ -154,7 +155,7 @@
 					"source" : "Design-Patterns/Creational-Patterns/abstract-factory",
 					"targetIndexes" : 
 					[
-						0
+						1
 					]
 				},
 				{
@@ -510,12 +511,31 @@
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "OOP"
+				},
+				{
+					"build" : "AgeOfEmpires3DE-API",
+					"jsonFile" : "directory-AgeOfEmpires3DE-API-Debug-5f3820487ea9596e9069.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "AgeOfEmpires3DE-API",
+					"targetIndexes" : 
+					[
+						0
+					]
 				}
 			],
 			"name" : "Debug",
 			"projects" : 
 			[
 				{
+					"childIndexes" : 
+					[
+						1
+					],
 					"directoryIndexes" : 
 					[
 						0,
@@ -562,17 +582,36 @@
 					"name" : "CPP-Study",
 					"targetIndexes" : 
 					[
-						0,
-						1
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						40
+					],
+					"name" : "AgeOfEmpires3DE-API",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
+					"directoryIndex" : 40,
+					"id" : "AgeOfEmpires3DE-API::@bdd4abf381c39a94945f",
+					"jsonFile" : "target-AgeOfEmpires3DE-API-Debug-e772ced57e8879cd32bb.json",
+					"name" : "AgeOfEmpires3DE-API",
+					"projectIndex" : 1
+				},
+				{
 					"directoryIndex" : 9,
 					"id" : "abstract-factory_main::@54d73e2fbd15919cdee4",
-					"jsonFile" : "target-abstract-factory_main-Debug-e6d466ffe62d696e235d.json",
+					"jsonFile" : "target-abstract-factory_main-Debug-00e8a319d94fb4cf0585.json",
 					"name" : "abstract-factory_main",
 					"projectIndex" : 0
 				},

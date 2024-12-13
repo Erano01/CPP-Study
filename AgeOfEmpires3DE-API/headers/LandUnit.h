@@ -3,7 +3,7 @@
 #include "Unit.h"
 
 //product
-class LandUnit : Unit{
+class LandUnit : public Unit{
 protected:
 	virtual void move() = 0;
 	virtual void rangedAttack(int range) = 0;

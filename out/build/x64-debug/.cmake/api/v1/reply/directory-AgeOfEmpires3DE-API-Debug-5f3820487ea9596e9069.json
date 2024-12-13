@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "AgeOfEmpires3DE-API",
+		"source" : "AgeOfEmpires3DE-API"
+	}
+}

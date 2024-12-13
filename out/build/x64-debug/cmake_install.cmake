@@ -37,6 +37,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Design-Patterns/cmake_install.cmake")
   include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/Algorithms/cmake_install.cmake")
   include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/OOP/cmake_install.cmake")
+  include("C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/AgeOfEmpires3DE-API/cmake_install.cmake")
 
 endif()
 

@@ -2,6 +2,42 @@
 	"entries" : 
 	[
 		{
+			"name" : "AgeOfEmpires3DE-API_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/CppWorkspace-VisualStudio2022/CPP-Study/out/build/x64-debug/AgeOfEmpires3DE-API"
+		},
+		{
+			"name" : "AgeOfEmpires3DE-API_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "OFF"
+		},
+		{
+			"name" : "AgeOfEmpires3DE-API_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/CppWorkspace-VisualStudio2022/CPP-Study/AgeOfEmpires3DE-API"
+		},
+		{
 			"name" : "CMAKE_AR",
 			"properties" : 
 			[
@@ -675,7 +711,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "40"
+			"value" : "41"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
