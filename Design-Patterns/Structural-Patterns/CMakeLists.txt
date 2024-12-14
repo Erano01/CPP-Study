@@ -1,4 +1,3 @@
-# Alt modülleri ekle
 add_subdirectory("adapter")
 add_subdirectory("bridge")
 add_subdirectory("composite")
