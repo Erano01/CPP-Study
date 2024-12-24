@@ -17,6 +17,7 @@ project ("CPP-Study")
 
 # Include sub-projects.
 add_subdirectory ("Design-Patterns")
-add_subdirectory ("Algorithms")
+add_subdirectory ("Introduction-to-Algorithms")
 add_subdirectory("AgeOfEmpires3DE-API")
 add_subdirectory("Effective-CPP-Digital-Collection")
+add_subdirectory("The-CPP-Language")
