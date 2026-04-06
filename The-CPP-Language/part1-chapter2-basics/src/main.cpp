@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 // In C++ there are 2 different variable types: user-defined types and built-in types. 
 // Built-in types are defined by the compiler, such as int, double, char, etc. User-defined types are defined by the programmer, such as classes, structs, enums, etc. 
@@ -59,17 +59,29 @@ int main() {
     }
 
     // [] -> array of operator
-    char name[50];
-    std::cin >> name; // read a string into the array
+    // char name[50];
+    // std::cin >> name; // read a string into the array
+    // * -> pointer defination operator, prefix unary ∗ 
+    // prefix unary & operator gives the address of the variable, so p points to the 4th character of the name array.
+    // char* p = &name[3]; 
+    // std::cout << "The pointer p points to: " << *p << std::endl; // dereferencing
+    // char x = *p; // dereferencing
+    // std::cout << "The character at position 3 is: " << x << std::endl;
 
-    // * -> pointer defination operator
-    char* p = &name[3];
 
-    std::cout << "The pointer p points to: " << *p << std::endl; // dereferencing
+    int x = 15;
+    int* ptr =  &x;
+    int** ptr_to_ptr = &ptr;
 
-    char x = *p; // dereferencing
+    // Pointer dereferencing
+    cout << "x: " << x << "\n";
+    cout << "ptr*: " << *ptr << "\n";
+    cout << "ptr**: " << **ptr_to_ptr << "\n";
 
-    std::cout << "The character at position 3 is: " << x << std::endl;
-
+    // Addresses of variables
+    cout << "&x: " << &x << "\n";
+    cout << "&ptr: " << &ptr << "\n";
+    cout << "&ptr_to_ptr: " << &ptr_to_ptr << "\n";
+    
     return 0;
 }
