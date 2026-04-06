@@ -15,14 +15,13 @@ include_directories(${DIR_LIST})
 
 # Gather all cpp files recursively from the project, including main.cpp
 file(GLOB_RECURSE SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/**/*.cpp)
-
-# Ensure main.cpp is included explicitly
-list(FIND SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/main.cpp" MAIN_CPP_INDEX)
-if(MAIN_CPP_INDEX EQUAL -1)
-    list(APPEND SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/main.cpp")
-endif()
+list(FILTER SOURCES EXCLUDE REGEX "${CMAKE_CURRENT_SOURCE_DIR}/build/.*")
 
 set(TARGET_NAME "basics_main")
 
 # Create the executable
 add_executable(${TARGET_NAME} ${SOURCES})
+
+# cmake -S . -B build
+# cmake --build build
+# to run -> ./build/basics_main

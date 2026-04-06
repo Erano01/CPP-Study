@@ -1,0 +1,3 @@
+/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles/basics_main.dir
+/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles/edit_cache.dir
+/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles/rebuild_cache.dir

@@ -27,7 +27,7 @@ const int MAX_SIZE = 1000; // equivalent to static final in Java/C#.
 constexpr double PI = 3.14159; // constexpr is a more powerful version of const. Evaluated at compile-time.
 
 // For a function to be `constexpr`, it needs to be quite simple: just a `return` statement that calculates a value.
-constexpr int square(int x) {
+constexpr double square(double x) {
     return x * x;
 }
 
@@ -42,13 +42,14 @@ int main() {
 
     switch (answer)
     {
-    case 'y':
+    case 'y': {
         std::cout << "Enter the radius of the circle: ";
         double radius;
         std::cin >> radius;
         double area = PI * square(radius);
         std::cout << "The area of the circle is: " << area << std::endl;
         break;
+    }
     case 'n':
         std::cout << "Okay, maybe next time!" << std::endl;
         break;
@@ -57,6 +58,18 @@ int main() {
         break;
     }
 
+    // [] -> array of operator
+    char name[50];
+    std::cin >> name; // read a string into the array
+
+    // * -> pointer defination operator
+    char* p = &name[3];
+
+    std::cout << "The pointer p points to: " << *p << std::endl; // dereferencing
+
+    char x = *p; // dereferencing
+
+    std::cout << "The character at position 3 is: " << x << std::endl;
 
     return 0;
 }

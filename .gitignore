@@ -1,2 +1,42 @@
 .vs/
-out
+.vscode/
+
+# CMake build directories
+/build/
+**/build/
+/cmake-build-*/
+**/cmake-build-*/
+
+# CMake generated files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/CTestTestfile.cmake
+**/Makefile
+**/compile_commands.json
+**/Testing/
+
+# Build outputs
+**/*.o
+**/*.obj
+**/*.a
+**/*.lib
+**/*.so
+**/*.so.*
+**/*.dylib
+**/*.dll
+**/*.exe
+**/*.out
+
+# Debug symbols and coverage
+**/*.dSYM/
+**/*.gcno
+**/*.gcda
+**/*.gcov
+
+# Editors and OS files
+**/.DS_Store
+**/Thumbs.db
+**/*~
+**/*.swp
+**/*.swo
