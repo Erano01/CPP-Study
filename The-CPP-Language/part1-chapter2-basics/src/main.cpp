@@ -69,19 +69,25 @@ int main() {
     // std::cout << "The character at position 3 is: " << x << std::endl;
 
 
-    int x = 15;
-    int* ptr =  &x;
-    int** ptr_to_ptr = &ptr;
+    int x = 15; // 0x7ffdde57212c(adress) -> 15 (value)
+    int* ptr =  &x; // 0x7ffdde572130(adress) -> 0x7ffdde57212c (value)
+    int** ptr_to_ptr = &ptr; // 0x7ffdde572138(address) -> 0x7ffdde572130 (value)
 
-    // Pointer dereferencing
-    cout << "x: " << x << "\n";
-    cout << "ptr*: " << *ptr << "\n";
-    cout << "ptr**: " << **ptr_to_ptr << "\n";
+    // x value and address
+    cout << "x value: " << x << "\n";
+    cout << "x address: " << &x << "\n";
+
+    // Pointer dereferencing -> for getting values
+    cout << "ptr* pointer dereferencing: " << *ptr << "\n";
+    cout << "ptr** pointer dereferencing: " << **ptr_to_ptr << "\n";
 
     // Addresses of variables
-    cout << "&x: " << &x << "\n";
-    cout << "&ptr: " << &ptr << "\n";
-    cout << "&ptr_to_ptr: " << &ptr_to_ptr << "\n";
+    cout << "ptr address: " << &ptr << "\n";
+    cout << "ptr_to_ptr address: " << &ptr_to_ptr << "\n";
+
+    // Values of pointers
+    cout << "ptr value (address of x): " << ptr << "\n";
+    cout << "ptr_to_ptr value (address of ptr): " << ptr_to_ptr << "\n";
     
     return 0;
 }
