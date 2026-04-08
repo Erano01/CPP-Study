@@ -31,6 +31,8 @@ constexpr double square(double x) {
     return x * x;
 }
 
+
+
 int main() {
     
     // << -> put to operator
