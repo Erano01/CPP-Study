@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+// Topics:
+// 1- Built-in types and user-defined types -> int, double, char, struct, class, enum
+// 2- Objects and memory -> Variables, pointers, addresses, dereferencing
+// 3- Immutable structures -> const and constexpr
+// 4- Generic programming -> void pointers and template functions
+
 // In C++ there are 2 different variable types: user-defined types and built-in types.
 // Built-in types are defined by the compiler, such as int, double, char, etc. User-defined types are defined by the programmer, such as classes, structs, enums, etc.
 
