@@ -33,6 +33,8 @@ constexpr double square(double x)
     return x * x;
 }
 
+// Generic Programming -> writing code that can work with any data type. Void Pointers & Template Functions
+
 // void pointer'larla çalışırken -> Tip bilgisini sen taşıyorsun, runtime'da switch/if yapıyorsun, cast'ı sen yapıyorsun. Yanlış tip geçersen undefined behavior, compiler hiçbir şey söylemez.
 void print_value(void *p, char type)
 {
@@ -41,7 +43,6 @@ void print_value(void *p, char type)
     if (type == 'd')
         printf("%f", *(double *)p);
 }
-
 // C++17 ile gelen template fonksiyonlar sayesinde, void pointer'larla uğraşmadan, tip güvenli bir şekilde yazabiliriz.
 // Template fonksiyonlar, compile-time'da çağrıldıkları tiplere göre otomatik olarak özel bir versiyonunu oluşturur. 
 // Bu sayede, farklı tipler için aynı fonksiyon gövdesini kullanarak, tip güvenli ve daha okunabilir kod yazabiliriz.
