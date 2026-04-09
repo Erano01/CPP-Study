@@ -52,6 +52,13 @@ void print_value(void *p, char type)
 // C++17 ile gelen template fonksiyonlar sayesinde, void pointer'larla uğraşmadan, tip güvenli bir şekilde yazabiliriz.
 // Template fonksiyonlar, compile-time'da çağrıldıkları tiplere göre otomatik olarak özel bir versiyonunu oluşturur. 
 // Bu sayede, farklı tipler için aynı fonksiyon gövdesini kullanarak, tip güvenli ve daha okunabilir kod yazabiliriz.
+
+// Template'ler void*'ın generic programming rolünü devraldı. Ama void* alt katmanlarda, 
+// C sınırında hâlâ yaşıyor, sadece artık doğrudan kullanıcı kodunda görmek istemiyoruz.
+// Templates'in ulaşamadığı yerler var:
+// C API Interop -> malloc, memcpy, pthread_create hepsi void* alır/return eder.
+// Type Erasure -> std::any, std::function gibi yapılar içeride void* kullanır, ama bunu senden gizler
+// Runtime polymorphism -> Type compile time'da bilinmiyorsa template yetersiz kalır.
 template <typename T>
 void print_value(T value)
 {
