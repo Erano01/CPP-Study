@@ -129,6 +129,30 @@ basics_main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/build
 .PHONY : basics_main/fast
 
+src/Vector.o: src/Vector.cpp.o
+.PHONY : src/Vector.o
+
+# target to build an object file
+src/Vector.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/Vector.cpp.o
+.PHONY : src/Vector.cpp.o
+
+src/Vector.i: src/Vector.cpp.i
+.PHONY : src/Vector.i
+
+# target to preprocess a source file
+src/Vector.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/Vector.cpp.i
+.PHONY : src/Vector.cpp.i
+
+src/Vector.s: src/Vector.cpp.s
+.PHONY : src/Vector.s
+
+# target to generate assembly for a file
+src/Vector.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/Vector.cpp.s
+.PHONY : src/Vector.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -153,6 +177,30 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/user.o: src/user.cpp.o
+.PHONY : src/user.o
+
+# target to build an object file
+src/user.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/user.cpp.o
+.PHONY : src/user.cpp.o
+
+src/user.i: src/user.cpp.i
+.PHONY : src/user.i
+
+# target to preprocess a source file
+src/user.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/user.cpp.i
+.PHONY : src/user.cpp.i
+
+src/user.s: src/user.cpp.s
+.PHONY : src/user.s
+
+# target to generate assembly for a file
+src/user.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basics_main.dir/build.make CMakeFiles/basics_main.dir/src/user.cpp.s
+.PHONY : src/user.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,9 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... basics_main"
+	@echo "... src/Vector.o"
+	@echo "... src/Vector.i"
+	@echo "... src/Vector.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/user.o"
+	@echo "... src/user.i"
+	@echo "... src/user.s"
 .PHONY : help
 
 

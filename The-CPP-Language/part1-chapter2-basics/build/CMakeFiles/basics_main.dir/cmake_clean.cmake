@@ -1,7 +1,11 @@
 file(REMOVE_RECURSE
   "CMakeFiles/basics_main.dir/link.d"
+  "CMakeFiles/basics_main.dir/src/Vector.cpp.o"
+  "CMakeFiles/basics_main.dir/src/Vector.cpp.o.d"
   "CMakeFiles/basics_main.dir/src/main.cpp.o"
   "CMakeFiles/basics_main.dir/src/main.cpp.o.d"
+  "CMakeFiles/basics_main.dir/src/user.cpp.o"
+  "CMakeFiles/basics_main.dir/src/user.cpp.o.d"
   "basics_main"
   "basics_main.pdb"
 )

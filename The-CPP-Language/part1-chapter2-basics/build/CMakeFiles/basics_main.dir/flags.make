@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/include
 
 CXX_FLAGS = -std=gnu++23
 

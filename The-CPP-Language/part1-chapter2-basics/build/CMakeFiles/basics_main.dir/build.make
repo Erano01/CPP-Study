@@ -72,10 +72,24 @@ include CMakeFiles/basics_main.dir/flags.make
 CMakeFiles/basics_main.dir/codegen:
 .PHONY : CMakeFiles/basics_main.dir/codegen
 
+CMakeFiles/basics_main.dir/src/Vector.cpp.o: CMakeFiles/basics_main.dir/flags.make
+CMakeFiles/basics_main.dir/src/Vector.cpp.o: /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/Vector.cpp
+CMakeFiles/basics_main.dir/src/Vector.cpp.o: CMakeFiles/basics_main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/basics_main.dir/src/Vector.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basics_main.dir/src/Vector.cpp.o -MF CMakeFiles/basics_main.dir/src/Vector.cpp.o.d -o CMakeFiles/basics_main.dir/src/Vector.cpp.o -c /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/Vector.cpp
+
+CMakeFiles/basics_main.dir/src/Vector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/basics_main.dir/src/Vector.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/Vector.cpp > CMakeFiles/basics_main.dir/src/Vector.cpp.i
+
+CMakeFiles/basics_main.dir/src/Vector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basics_main.dir/src/Vector.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/Vector.cpp -o CMakeFiles/basics_main.dir/src/Vector.cpp.s
+
 CMakeFiles/basics_main.dir/src/main.cpp.o: CMakeFiles/basics_main.dir/flags.make
 CMakeFiles/basics_main.dir/src/main.cpp.o: /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/main.cpp
 CMakeFiles/basics_main.dir/src/main.cpp.o: CMakeFiles/basics_main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/basics_main.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/basics_main.dir/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basics_main.dir/src/main.cpp.o -MF CMakeFiles/basics_main.dir/src/main.cpp.o.d -o CMakeFiles/basics_main.dir/src/main.cpp.o -c /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/main.cpp
 
 CMakeFiles/basics_main.dir/src/main.cpp.i: cmake_force
@@ -86,18 +100,36 @@ CMakeFiles/basics_main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basics_main.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/main.cpp -o CMakeFiles/basics_main.dir/src/main.cpp.s
 
+CMakeFiles/basics_main.dir/src/user.cpp.o: CMakeFiles/basics_main.dir/flags.make
+CMakeFiles/basics_main.dir/src/user.cpp.o: /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/user.cpp
+CMakeFiles/basics_main.dir/src/user.cpp.o: CMakeFiles/basics_main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/basics_main.dir/src/user.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basics_main.dir/src/user.cpp.o -MF CMakeFiles/basics_main.dir/src/user.cpp.o.d -o CMakeFiles/basics_main.dir/src/user.cpp.o -c /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/user.cpp
+
+CMakeFiles/basics_main.dir/src/user.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/basics_main.dir/src/user.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/user.cpp > CMakeFiles/basics_main.dir/src/user.cpp.i
+
+CMakeFiles/basics_main.dir/src/user.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basics_main.dir/src/user.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/src/user.cpp -o CMakeFiles/basics_main.dir/src/user.cpp.s
+
 # Object files for target basics_main
 basics_main_OBJECTS = \
-"CMakeFiles/basics_main.dir/src/main.cpp.o"
+"CMakeFiles/basics_main.dir/src/Vector.cpp.o" \
+"CMakeFiles/basics_main.dir/src/main.cpp.o" \
+"CMakeFiles/basics_main.dir/src/user.cpp.o"
 
 # External object files for target basics_main
 basics_main_EXTERNAL_OBJECTS =
 
+basics_main: CMakeFiles/basics_main.dir/src/Vector.cpp.o
 basics_main: CMakeFiles/basics_main.dir/src/main.cpp.o
+basics_main: CMakeFiles/basics_main.dir/src/user.cpp.o
 basics_main: CMakeFiles/basics_main.dir/build.make
 basics_main: CMakeFiles/basics_main.dir/compiler_depend.ts
 basics_main: CMakeFiles/basics_main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable basics_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/erano/CppWorkspace/CPP-Study/The-CPP-Language/part1-chapter2-basics/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable basics_main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/basics_main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

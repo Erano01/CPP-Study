@@ -22,6 +22,7 @@ set(TARGET_NAME "basics_main")
 # Create the executable
 add_executable(${TARGET_NAME} ${SOURCES})
 
+# cd The-CPP-Language/part1-chapter2-basics
 # cmake -S . -B build
 # cmake --build build
 # to run -> ./build/basics_main
