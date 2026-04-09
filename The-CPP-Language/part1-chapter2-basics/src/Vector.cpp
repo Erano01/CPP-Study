@@ -10,7 +10,9 @@ Vector::Vector(int s)
 
 double& Vector::operator[](int i) {
     
-    if (i < 0 || size() <= i) throw out_of_range{"Vector::operator[]"};
+    // Exception = runtime hata olduğunda kontrolü başka bir yere devretme mekanizması.
+    // static_assert = derleme zamanında hata yakalar
+    if (i < 0 || size() <= i) throw out_of_range{"Vector::operator[]"}; // exception handling
     return elem[i];
 
 }
