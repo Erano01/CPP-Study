@@ -65,6 +65,10 @@ void print_value(T value)
     std::cout << value;
 }
 
+// static assertions -> compile-time'da belirli koşulların sağlanıp sağlanmadığını kontrol etmek 
+// için kullanılır. Eğer koşul sağlanmazsa, derleme hatası verir ve hata mesajını gösterir.
+static_assert(sizeof(int) == 4, "int must be 4 bytes");
+
 int main()
 {
 
