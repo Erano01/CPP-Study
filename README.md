@@ -1,7 +1,6 @@
 CPP-Study -> A C++ learning and practice repository; language topics, algorithms, and design pattern examples in one place.
 
-```text
-All major sections in this repository are based on books; each folder contains implementations/studies derived from book chapters and notes.
+Most major sections in this repository are based on books; each folder contains implementations/studies derived from book chapters and notes.
 
 The-CPP-Language -> Step-by-step C++ language studies.
 - part1-chapter2-basics -> Core language basics, first class/Vector style structures, and examples.
@@ -29,4 +28,3 @@ CPP-Concurrency-in-Action -> A separate concurrency-focused study area, also bas
 build -> CMake-generated build outputs and cache files.
 
 CMakeLists.txt / CMakePresets.json -> Repository-wide CMake configuration and preset definitions.
-```
